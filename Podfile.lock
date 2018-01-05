@@ -1,0 +1,15 @@
+PODS:
+  - Masonry (1.0.2)
+  - TXScrollLabelView (1.2.0)
+
+DEPENDENCIES:
+  - Masonry
+  - TXScrollLabelView
+
+SPEC CHECKSUMS:
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  TXScrollLabelView: 52d69bf41995fed1c33320e8f4ad1a1be8dab596
+
+PODFILE CHECKSUM: 7138f4bbc1b135946cf8a6d65dafe14f413e6898
+
+COCOAPODS: 1.1.1
